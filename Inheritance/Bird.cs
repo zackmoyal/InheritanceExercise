@@ -8,7 +8,7 @@ namespace Inheritance
 {
     class Bird : Animal
     {
-        //members that are specific to birds
+        //members that are specific to animals
         public bool CanFly { get; set; }
         public int WingSpan { get; set; }
         public string FeatherColor { get; set; }
